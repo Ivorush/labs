@@ -1,9 +1,9 @@
 {
-    "name": "aloralabs",
+    "name": "Simbalabs",
     "version": "1.0.0",
-    "description": "Alora Labs company website",
+    "description": "Simba Labs company website",
     "license": "UNLICENSE",
-    "repository": "github:eberkund/alora",
+    "repository": "github:eberkund/Simba",
     "dependencies": {
         "@analytics/google-tag-manager": "^0.5.4",
         "@fullhuman/postcss-purgecss": "^2.3.0",

@@ -8,7 +8,7 @@ What is Hugo?
 
 Hugo is a modern static site generator that's the world's fastest framework for building websites. We are huge fans of the framework and have even used it the site you are currently visiting. 
 
-We were even showcased on their website: https://gohugo.io/showcase/alora-labs/
+We were even showcased on their website: https://gohugo.io/showcase/Simba-labs/
 
 Wordpress Problems
 - Slow performance

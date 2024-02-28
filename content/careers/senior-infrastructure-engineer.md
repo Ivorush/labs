@@ -1,12 +1,12 @@
 ---
 title: Senior Infrastructure Engineer
-description: Alora Labs, a leading IoT development company is seeking a Senior Infrastructure Engineer to join the team.
-location: Toronto, Canada
+description: Simba Labs, a leading IoT development company is seeking a Senior Infrastructure Engineer to join the team.
+location: Nakuru, Kenya
 ---
 
 ### About Us
 
-Alora Labs is a leading-edge software company specializing in building innovative and scalable solutions. We're looking for a talented and experienced Senior DevOps Engineer to join our team and contribute to the effective operation and improvement of our systems and services. If you're passionate about automation, infrastructure as code, and enjoy maintaining a smooth and efficient operation in a highly available environment, this position might be for you!
+Simba Labs is a leading-edge software company specializing in building innovative and scalable solutions. We're looking for a talented and experienced Senior DevOps Engineer to join our team and contribute to the effective operation and improvement of our systems and services. If you're passionate about automation, infrastructure as code, and enjoy maintaining a smooth and efficient operation in a highly available environment, this position might be for you!
 
 ### Job Description
 
@@ -46,9 +46,9 @@ Experience with serverless architecture.
 - Flexible work hours and remote work options.
 - Continuous learning and development opportunities.
 - A culture that values collaboration, innovation, and inclusion.
-- Alora Labs is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+- Simba Labs is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
 
-Interested candidates are invited to submit their resume and cover letter by sending an email to: careers@aloralabs.com
+Interested candidates are invited to submit their resume and cover letter by sending an email to: careers@Simbalabs.com
 
 Please note: Due to the high volume of applications we receive, only those selected for an interview will be contacted.
 

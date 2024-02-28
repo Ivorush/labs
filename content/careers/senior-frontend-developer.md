@@ -1,12 +1,12 @@
 ---
 title: Senior Frontend Developer
-location: Toronto, Canada
+location: Nairobi, Kenya
 ---
 
-Are you a talented and experienced frontend engineer with expertise in React? Are you passionate about creating exceptional user experiences and driving frontend development? If so, we have an exciting opportunity for you to join our team as a Senior Frontend Engineer at Alora Labs.
+Are you a talented and experienced frontend engineer with expertise in React? Are you passionate about creating exceptional user experiences and driving frontend development? If so, we have an exciting opportunity for you to join our team as a Senior Frontend Engineer at Simba Labs.
 
-### About Alora Labs
-Alora Labs is a leading technology company specializing in IoT and custom software development. We are committed to innovation, quality, and delivering outstanding solutions to our clients. As a Senior Frontend Engineer, you will play a crucial role in shaping the future of our products, with a focus on React development.
+### About Simba Labs
+Simba Labs is a leading technology company specializing in IoT and custom software development. We are committed to innovation, quality, and delivering outstanding solutions to our clients. As a Senior Frontend Engineer, you will play a crucial role in shaping the future of our products, with a focus on React development.
 
 ### Responsibilities
 
@@ -45,8 +45,8 @@ Write clean, efficient, and reusable code using HTML, CSS, and JavaScript, speci
 
 Join our dynamic and talented team as a Senior Frontend Engineer with a focus on React, and contribute to building innovative solutions that make a real impact. Apply today by submitting your resume, portfolio, and a cover letter explaining why you are the perfect fit for this position. We look forward to hearing from you!
 
-Alora Labs is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+Simba Labs is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
 
-Interested candidates are invited to submit their resume and cover letter by sending an email to: careers@aloralabs.com
+Interested candidates are invited to submit their resume and cover letter by sending an email to: careers@Simbalabs.com
 
 Please note: Due to the high volume of applications we receive, only those selected for an interview will be contacted.

@@ -1,6 +1,6 @@
-baseURL = "https://aloralabs.com/"
+baseURL = "https://Simbalabs.com/"
 languageCode = "en-us"
-title = "Alora Labs"
+title = "Simba Labs"
 
 enableRobotsTXT = true
 disableKinds = ["taxonomy"]

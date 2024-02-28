@@ -72,7 +72,7 @@
                 {{ $projects := where .Site.Pages "Type" "projects" }}
                 {{ range first 3 (where $projects "." "ne" $.Page) }}
                 {{ $image := .Resources.GetMatch "feature*" }}
-                {{ $image = $image.Fill "688x460 center webp" }}
+             
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="card card-hover h-100">
                         <img class="card-img-top" src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
@@ -87,8 +87,8 @@
             </div>
             <div class="text-center">
                 <div class="divider mx-auto"></div>
-                <p>💡 Check out our guide - <a href="/insights/how-to-develop-your-iot-product/">How To Develop Your IoT Product</a></p>
-                <p>🏆 Latest blog post - <a href="/insights/alora-labs-receives-clutch-2021-top-iot-agency-award/">Alora Labs wins Top IoT Company Award</a></p>
+                <p>💡 Check\ out our guide - <a href="/insights/how-to-develop-your-iot-product/">How To Develop Your IoT Product</a></p>
+                <p>🏆 Latest blog post - <a href="/insights/Simba-labs-receives-clutch-2021-top-iot-agency-award/">Simba Labs wins Top IoT Company Award</a></p>
             </div>
         </div>
     </div>

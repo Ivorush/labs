@@ -17,7 +17,7 @@
     <div class="row mb-lg-5">
         {{ range first 9 (where .Site.RegularPages.ByWeight "Type" "projects") }}
         {{ $image := .Resources.GetMatch "feature*" }}
-        {{ $image = $image.Fill "688x460 center webp" }}
+      
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="card card-hover h-100">
                 <img class="card-img-top" src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
@@ -36,7 +36,7 @@
     <!--
     <div class="divider mx-auto"></div>
     <div class="container py-5">
-        <h2 class="text-center mb-5">Work at Alora Labs</h2>
+        <h2 class="text-center mb-5">Work at Simba Labs</h2>
         <div class="row justify-content-center g-5">
             <div class="col-md-6 col-lg-5">
                 <h3 class="h6">Are there discounts for yearly plans?</h3>
